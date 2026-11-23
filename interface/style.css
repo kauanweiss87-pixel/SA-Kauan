@@ -1,0 +1,55 @@
+
+/* Configuração da página */
+body {
+    background-color: #f3e0c3;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    color: #3e1f0d;
+}
+
+/* Cabeçalho da fábrica */
+h1 {
+    background-color: #3e1f0d;
+    color: #fff0d5;
+    text-align: center;
+    padding: 35px;
+    font-size: 35px;
+}
+
+/* Títulos */
+h2 {
+    color: #6b3518;
+    text-align: center;
+    margin-top: 30px;
+}
+
+/* Textos */
+p {
+    text-align: center;
+    font-size: 18px;
+    margin: 20px;
+}
+
+/* Lista de chocolates */
+ul, ol {
+    background-color: #fff5e6;
+    border: 2px solid #9b6338;
+    border-radius: 12px;
+    padding: 25px 50px;
+    margin: 20px 40px;
+}
+
+/* Itens */
+li {
+    padding: 8px;
+    font-size: 17px;
+}
+
+/* Rodapé */
+footer {
+    background-color: #3e1f0d;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}

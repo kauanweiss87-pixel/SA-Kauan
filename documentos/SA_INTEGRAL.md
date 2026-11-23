@@ -54,11 +54,11 @@ Entre os projetos em andamento, há solicitações de desenvolvimento para siste
 - Escola
 - Empresa de Recursos Humanos (RH)
 - Oficina mecânica
-- Fábrica de chocolate
+- Fábrica de chocolate 
 
 Cada projeto possui particularidades, mas todos exigem a construção de um sistema funcional com modelagem de requisitos, estrutura de banco de dados e interface de aplicação.
 
-## DESAFIO
+## DESAFI
 
 O Técnico em Desenvolvimento de Sistemas foi contratado para desenvolver um dos projetos propostos à uma aplicação funcional que atenda às necessidades do cliente, assegurando qualidade, integridade, usabilidade e segurança das informações tratadas.
 
